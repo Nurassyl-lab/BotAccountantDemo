@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+twilio
+supabase
+python-dotenv
+
