@@ -8,4 +8,7 @@ builder = "nixpacks"
 # buildArgs = { MY_VAR = "my_value" }
 
 # Optional: Specify a start command. If not present, Nixpacks will infer one.
-startCommand = "python your_script.py" # Replace with your start command
+startCommand = "python hello.py" # Replace with your start command
+
+[deploy]
+# Nothing here yet
